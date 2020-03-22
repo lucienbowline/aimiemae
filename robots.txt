@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://igoonaepu.kim-retires.com/sitemap.xml
